@@ -1,5 +1,5 @@
 # 🟢 AWS Training — Basic Level
-### Intern DevOps Developer Roadmap | Guided by a 10-Year AWS DevOps Expert
+### Intern DevOps Developer Roadmap 
 
 ---
 
